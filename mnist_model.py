@@ -1,5 +1,3 @@
-# Inspired by https://github.com/maurapintor/mnist-pretrained
-# and by https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb
 import torch
 from torch import nn
 from torch.optim import Adam
